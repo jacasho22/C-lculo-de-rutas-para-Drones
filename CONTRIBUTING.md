@@ -1,13 +1,9 @@
 # Guía de Contribución
-
-¡Gracias por tu interés en contribuir a nuestro proyecto!
-
-Aquí hay algunas formas en las que puedes contribuir:
-
-1. **Reportando errores**: Si encuentras algún error o problema con el proyecto, por favor crea un nuevo "issue" en GitHub describiendo el problema y cómo reproducirlo.
-
-2. **Sugiriendo mejoras**: Si tienes una idea de cómo mejorar el proyecto, por favor crea un nuevo "issue" en GitHub describiendo tu sugerencia.
-
-3. **Contribuyendo con código**: Si quieres contribuir con código al proyecto, por favor crea una nueva "pull request" con tus cambios.
-
-Por favor, asegúrate de seguir nuestras normas de estilo de código y pruebas antes de enviar tu "pull request". ¡Gracias!
+¡Gracias por considerar contribuir a este proyecto! Aquí hay algunas pautas para ayudarte a colaborar:
+1. Abre un problema para discutir tu contribución antes de comenzar a trabajar en ella.
+2. Clona este repositorio y crea una rama para tu contribución.
+3. Sigue las convenciones de estilo de código y asegúrate de que tu código esté documentado.
+4. Realiza pruebas exhaustivas y asegúrate de que todas las pruebas pasen.
+5. Envía una solicitud de extracción (PR) con una descripción detallada de tus cambios.
+6. Los mantenedores del proyecto revisarán tu PR y proporcionarán retroalimentación.
+¡Gracias por tu interés en mejorar este proyecto!
